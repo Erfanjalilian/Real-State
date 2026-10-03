@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "title": "زمین 500 متری در دماوند",
+    "type": "land",
+    "propertyType": "زمین",
+    "province": "تهران",
+    "city": "دماوند",
+    "price": 2500000000,
+    "area": 500,
+    "description": "زمین ممتاز با موقعیت بسیار مناسب برای ساخت ویلایی یا سرمایه‌گذاری، در مجاورت جاده اصلی و خدمات شهری و با دسترسی آسان به تهران.",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "دماوند، بلوار شهید بهشتی، کوچه باغستان",
+    "phone": "09120000001",
+    "features": ["سند تک برگ", "آب", "برق", "گاز", "دسترسی جاده‌ای"],
+    "createdAt": "2026-01-05",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "ویلای لوکس 4 طبقه در شمال تهران",
+    "type": "villa",
+    "propertyType": "ویلا",
+    "province": "تهران",
+    "city": "لواسان",
+    "price": 18500000000,
+    "area": 420,
+    "description": "ویلا مدرن با طراحی مینیمال، نمای شهری، حیاط خصوصی، باغچه و نورگیرهای فراوان در یک منطقه آرام و لوکس.",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "لواسان، خیابان باغستان، کوچه گلستان",
+    "phone": "09120000002",
+    "features": ["پارکینگ", "آلاچیق", "سونا", "مبلمان", "دسترسی سریع"],
+    "createdAt": "2026-02-18",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "خانه دو طبقه در شهرک غرب",
+    "type": "house",
+    "propertyType": "خانه",
+    "province": "تهران",
+    "city": "شهریار",
+    "price": 7800000000,
+    "area": 260,
+    "description": "خانه دوجداره با فضاهای روشن، دو خواب، سالن بزرگ، آشپزخانه مدرن و دسترسی عالی به حمل و نقل عمومی و مراکز خرید.",
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "شهریار، بلوار آریا، مجتمع گل‌ها",
+    "phone": "09120000003",
+    "features": ["آشپزخانه مدرن", "پنت هاوس", "انباری", "پارکینگ"],
+    "createdAt": "2026-01-29",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "مغازه در مرکز خرید شهرک اندیشه",
+    "type": "shop",
+    "propertyType": "مغازه",
+    "province": "البرز",
+    "city": "کرج",
+    "price": 4300000000,
+    "area": 110,
+    "description": "مغازه با موقعیت ممتاز در مرکز خرید، ریزش جمعیت بالا، مناسب برای فروشگاه مواد غذایی، لوازم آرایشی یا فست فود.",
+    "images": [
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556740749-887f6717d7e4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "کرج، میدان آزادی، مجتمع تجاری اندیشه",
+    "phone": "09120000004",
+    "features": ["موقعیت ممتاز", "رختشور", "دسترسی شهری", "پشت بام"],
+    "createdAt": "2026-03-02",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "زمین 800 متری در هشتگرد",
+    "type": "land",
+    "propertyType": "زمین",
+    "province": "البرز",
+    "city": "هشتگرد",
+    "price": 3600000000,
+    "area": 800,
+    "description": "موقعیت مناسب برای ساخت واحدهای مسکونی و سرمایه‌گذاری بلندمدت، با دسترسی به شبکه جاده‌ای و زیرساخت‌های شهری.",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "هشتگرد، جاده مخصوص، بلوار سبزوار",
+    "phone": "09120000005",
+    "features": ["سند رسمی", "آب و برق", "دسترسی جاده‌ای", "نزدیک مناطق مسکونی"],
+    "createdAt": "2026-02-20",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "ویلا دوبلکس با باغچه در مشهد",
+    "type": "villa",
+    "propertyType": "ویلا",
+    "province": "خراسان رضوی",
+    "city": "مشهد",
+    "price": 13500000000,
+    "area": 480,
+    "description": "ویلا فضای باز، باغچه مناسب و طراحی مدرن، در مناطق شمالی مشهد و نزدیک مراکز رفاهی و تفریحی.",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "مشهد، منطقه سرچشمه، خیابان باغ نگار",
+    "phone": "09120000006",
+    "features": ["حیاط خصوصی", "پاسیو", "سیستم گرمایش", "باغچه"],
+    "createdAt": "2026-03-05",
+    "featured": true
+  },
+  {
+    "id": 7,
+    "title": "خانه 3 خوابه در بلوار کشاورز",
+    "type": "house",
+    "propertyType": "خانه",
+    "province": "خراسان رضوی",
+    "city": "مشهد",
+    "price": 6200000000,
+    "area": 210,
+    "description": "خانه با نور طبیعی مناسب و موقعیت خوب در نزدیکی مراکز آموزشی و خرید، برای خانواده‌های شاغل و مدرن مناسب است.",
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1448630360428-65456885c650?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "مشهد، بلوار کشاورز، کوچه نسترن",
+    "phone": "09120000007",
+    "features": ["سه خواب", "پارکینگ", "آشپزخانه", "دسترسی عالی"],
+    "createdAt": "2026-01-21",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "مغازه 2 طبقه در بازار مرکزی اصفهان",
+    "type": "shop",
+    "propertyType": "مغازه",
+    "province": "اصفهان",
+    "city": "اصفهان",
+    "price": 5100000000,
+    "area": 130,
+    "description": "مغازه دوقلو در محله مرکزی، مناسب برای فروشگاه لباس، لوازم دستی و برندهای محلی، با تراکم جمعیتی بالا.",
+    "images": [
+      "https://images.unsplash.com/photo-1556740749-887f6717d7e4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "اصفهان، میدان نقش جهان، خیابان سوهانک",
+    "phone": "09120000008",
+    "features": ["دسترسی پیاده", "دو طبقه", "موقعیت تجاری", "نور طبیعی"],
+    "createdAt": "2026-02-12",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "title": "زمین 1200 متری در کاشان",
+    "type": "land",
+    "propertyType": "زمین",
+    "province": "اصفهان",
+    "city": "کاشان",
+    "price": 4700000000,
+    "area": 1200,
+    "description": "زمین بزرگ با چشم‌انداز مناسب برای ساخت مجتمع مسکونی یا ویلایی و استفاده در پروژه‌های سرمایه‌گذاری.",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "کاشان، جاده قزوین، ناحیه باغستان",
+    "phone": "09120000009",
+    "features": ["سند رسمی", "دسترسی عالی", "پروژه‌پذیر", "مناسب سرمایه‌گذاری"],
+    "createdAt": "2026-01-17",
+    "featured": false
+  },
+  {
+    "id": 10,
+    "title": "خانه ویلایی 3 خوابه در یزد",
+    "type": "house",
+    "propertyType": "خانه",
+    "province": "یزد",
+    "city": "یزد",
+    "price": 5900000000,
+    "area": 240,
+    "description": "خانه ویلایی با حیاط و باغچه، مناسب خانواده‌های بزرگ و افرادی که به آرامش و فضای باز اهمیت می‌دهند.",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "یزد، محله معلم، خیابان نخلستان",
+    "phone": "09120000010",
+    "features": ["حیاط", "آشپزخانه", "برق و آب", "دربان اتوماتیک"],
+    "createdAt": "2026-04-08",
+    "featured": false
+  },
+  {
+    "id": 11,
+    "title": "ویلا دوبلکس در شمال آستارا",
+    "type": "villa",
+    "propertyType": "ویلا",
+    "province": "گیلان",
+    "city": "آستارا",
+    "price": 16800000000,
+    "area": 520,
+    "description": "ویلا با چشم‌انداز دریا و طراحی مدرن در یکی از بهترین مناطق شمالی، برای سکونت و تفریح ایده‌آل است.",
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "آستارا، منطقه ساحلی، کوچه سهیل",
+    "phone": "09120000011",
+    "features": ["چشم‌انداز دریا", "استخر", "بالکن", "تراس"],
+    "createdAt": "2026-02-26",
+    "featured": true
+  },
+  {
+    "id": 12,
+    "title": "مغازه در خیابان شریعتی رشت",
+    "type": "shop",
+    "propertyType": "مغازه",
+    "province": "گیلان",
+    "city": "رشت",
+    "price": 4100000000,
+    "area": 96,
+    "description": "مغازه مناسب برای فروشگاه لباس، لوازم آرایشی و رستوران، در یکی از پرترددترین خیابان‌های رشت.",
+    "images": [
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556740749-887f6717d7e4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "رشت، خیابان شریعتی، پلاک 125",
+    "phone": "09120000012",
+    "features": ["تردد بالا", "نور مناسب", "پشت بام", "دسترسی آسان"],
+    "createdAt": "2026-02-02",
+    "featured": false
+  },
+  {
+    "id": 13,
+    "title": "زمین 300 متری در مال‌کیان",
+    "type": "land",
+    "propertyType": "زمین",
+    "province": "آذربایجان شرقی",
+    "city": "تبریز",
+    "price": 1900000000,
+    "area": 300,
+    "description": "زمین مناسب برای ساخت خانه و سرمایه‌گذاری، در محله‌ای آرام و در دسترس نسبت به مراکز خدماتی شهر.",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "تبریز، مال‌کیان، خیابان باغستان",
+    "phone": "09120000013",
+    "features": ["آب و برق", "دسترسی خوب", "مناسب ساخت و ساز"],
+    "createdAt": "2026-01-12",
+    "featured": false
+  },
+  {
+    "id": 14,
+    "title": "ویلا مدرن با استخر در قشم",
+    "type": "villa",
+    "propertyType": "ویلا",
+    "province": "هرمزگان",
+    "city": "قشم",
+    "price": 22500000000,
+    "area": 610,
+    "description": "ویلا لوکس با استخر و نمای دریا، طراحی مدرن و موقعیت فوق‌العاده برای سکونت دائمی یا تفریحی.",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "قشم، بلوار ساحلی، محله سرخس",
+    "phone": "09120000014",
+    "features": ["استخر", "ساحلی", "پنت هاوس", "چشم‌انداز دریا"],
+    "createdAt": "2026-03-10",
+    "featured": true
+  },
+  {
+    "id": 15,
+    "title": "خانه 2 خوابه در منطقه 22 تهران",
+    "type": "house",
+    "propertyType": "خانه",
+    "province": "تهران",
+    "city": "تهران",
+    "price": 9100000000,
+    "area": 180,
+    "description": "خانه دوخوابه در محله‌ای شلوغ و خدمات‌رسان، مناسب برای سکونت خانواده‌های کوچک و صاحبخانه‌های فعال.",
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "تهران، منطقه 22، خیابان رسالت، پلاک 88",
+    "phone": "09120000015",
+    "features": ["دسترسی به مترو", "پاسیو", "پارکینگ", "درب هشدار"],
+    "createdAt": "2026-04-17",
+    "featured": false
+  },
+  {
+    "id": 16,
+    "title": "مغازه در میدان امام خمینی کرمان",
+    "type": "shop",
+    "propertyType": "مغازه",
+    "province": "کرمان",
+    "city": "کرمان",
+    "price": 3300000000,
+    "area": 90,
+    "description": "مغازه مناسب برای فروشگاه‌های زنجیره‌ای و تجاری در یکی از پرترددترین میدان‌های شهر کرمان.",
+    "images": [
+      "https://images.unsplash.com/photo-1556740749-887f6717d7e4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "کرمان، میدان امام خمینی، خیابان نصیر",
+    "phone": "09120000016",
+    "features": ["تردد بالا", "قابل توسعه", "سطح زمین", "برجسته"],
+    "createdAt": "2026-02-11",
+    "featured": false
+  },
+  {
+    "id": 17,
+    "title": "زمین 700 متری در شمال کرج",
+    "type": "land",
+    "propertyType": "زمین",
+    "province": "البرز",
+    "city": "کرج",
+    "price": 2900000000,
+    "area": 700,
+    "description": "زمین مناسب برای ساخت خانه ویلایی اجرا شود، در مجاورت مناطق مسکونی و در دسترس خدمات شهری.",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "کرج، شمال شهر، خیابان مهران",
+    "phone": "09120000017",
+    "features": ["سند مالکیت", "آب و برق", "دسترسی راحت", "واقع در محله آرام"],
+    "createdAt": "2026-03-21",
+    "featured": false
+  },
+  {
+    "id": 18,
+    "title": "خانه 4 خوابه در شمال شیراز",
+    "type": "house",
+    "propertyType": "خانه",
+    "province": "فارس",
+    "city": "شیراز",
+    "price": 8300000000,
+    "area": 340,
+    "description": "خانه فضاهای باز و آرام با محوطه‌سازی مناسب در نزدیکی مراکز خرید و خدمات شهری.",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "شیراز، بلوار زند، کوچه کوثر",
+    "phone": "09120000018",
+    "features": ["4 خواب", "گلخانه", "پارکینگ", "آشپزخانه مدرن"],
+    "createdAt": "2026-03-09",
+    "featured": false
+  },
+  {
+    "id": 19,
+    "title": "ویلای ساحلی در بوشهر",
+    "type": "villa",
+    "propertyType": "ویلا",
+    "province": "بوشهر",
+    "city": "بوشهر",
+    "price": 19200000000,
+    "area": 560,
+    "description": "ویلای ساحلی با طراحی مینیمال و فضای مجلل برای سکونت و سرمایه‌گذاری، در نزدیکی ساحل و مراکز تفریحی.",
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "بوشهر، منطقه ساحلی، پلاک 27",
+    "phone": "09120000019",
+    "features": ["دریاچه نزدیک", "استخر", "ساحل", "اتاق مهمان"],
+    "createdAt": "2026-02-16",
+    "featured": true
+  },
+  {
+    "id": 20,
+    "title": "مغازه صنعتی در شهرک صنعتی یزد",
+    "type": "shop",
+    "propertyType": "مغازه",
+    "province": "یزد",
+    "city": "یزد",
+    "price": 5400000000,
+    "area": 160,
+    "description": "مغازه صنعتی و تجاری در شهرک صنعتی با دسترسی مناسب به مسیرهای اصلی و مناسب برای کسب و کارهای تولیدی.",
+    "images": [
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556740749-887f6717d7e4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "address": "یزد، شهرک صنعتی، بلوار صنعت",
+    "phone": "09120000020",
+    "features": ["دسترسی صنعتی", "منطقه رفاهی", "اقلام نگهداری", "پارکینگ"],
+    "createdAt": "2026-04-03",
+    "featured": false
+  }
+]
