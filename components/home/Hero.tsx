@@ -23,8 +23,8 @@ export function Hero({ featuredVilla }: { featuredVilla: Property | null }) {
 
   return (
     <section className="relative overflow-hidden bg-[#F7F7F4] pb-6 pt-4">
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="relative overflow-hidden rounded-[2rem] border border-[#E7E2D7] bg-white shadow-[0_24px_60px_rgba(27,94,60,0.12)]">
+      <div className="mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="relative w-full min-w-0 overflow-hidden rounded-[2rem] border border-[#E7E2D7] bg-white shadow-[0_24px_60px_rgba(27,94,60,0.12)]">
           <div className="absolute inset-0">
             <Image
               src={bannerImage}
@@ -37,8 +37,8 @@ export function Hero({ featuredVilla }: { featuredVilla: Property | null }) {
             <div className="absolute inset-0 bg-gradient-to-r from-[#0f2d1f]/80 via-[#1B5E3C]/75 to-[#1B5E3C]/30" />
           </div>
 
-          <div className="relative grid min-h-[520px] items-center px-5 py-10 sm:px-8 lg:grid-cols-[1.1fr_0.9fr] lg:px-10 lg:py-14">
-            <div className="max-w-xl text-white">
+          <div className="relative grid w-full min-w-0 min-h-[520px] items-center px-5 py-10 sm:px-8 lg:grid-cols-[1.1fr_0.9fr] lg:px-10 lg:py-14">
+            <div className="w-full min-w-0 max-w-xl text-white">
               <span className="inline-flex items-center rounded-full border border-white/20 bg-white/10 px-3 py-1 text-xs font-semibold text-[#F7E8A9] backdrop-blur-sm">
                 بهترین انتخاب برای سرمایه‌گذاری
               </span>
@@ -83,8 +83,8 @@ export function Hero({ featuredVilla }: { featuredVilla: Property | null }) {
             </div>
 
             {featuredVilla?.images[0] && (
-              <div className="mt-8 flex justify-center lg:mt-0 lg:justify-end">
-                <div className="w-full max-w-md rounded-[1.75rem] border border-white/20 bg-white/10 p-4 shadow-[0_18px_36px_rgba(0,0,0,0.18)] backdrop-blur-sm">
+              <div className="mt-8 flex w-full min-w-0 justify-center lg:mt-0 lg:justify-end">
+                <div className="w-full min-w-0 max-w-md rounded-[1.75rem] border border-white/20 bg-white/10 p-4 shadow-[0_18px_36px_rgba(0,0,0,0.18)] backdrop-blur-sm">
                   <Link href={`/properties/${featuredVilla.id}`} className="block overflow-hidden rounded-[1.2rem] border border-white/20">
                     <Image
                       src={featuredVilla.images[0]}
